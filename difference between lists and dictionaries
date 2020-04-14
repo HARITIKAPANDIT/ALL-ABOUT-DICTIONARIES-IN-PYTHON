@@ -1,0 +1,16 @@
+#CREATING LISTS
+student=[50,62,74,65,36]
+class=['10A','9B','12A','11B','10C']
+
+#to get index of class 10A
+ind_10A= class.index('10A')
+
+#to print the no. of student in class 10A
+pop[ind_10A]
+ 
+
+#CREATING DICTIONARY
+school={'10A':50,'9B':62,'12A':74,'11B':65,'10C':36]
+
+#to print the no. of students in class 10A
+school['10A']
